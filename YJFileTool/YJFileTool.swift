@@ -1,14 +1,14 @@
 //
-//  YJFileToolSwift.swift
-//  YJFileToolSwiftDemo
+//  YJFileTool.swift
+//  CloudPlatform
 //
-//  Created by o dream boy on 2018/3/27.
-//  Copyright © 2018年 child. All rights reserved.
+//  Created by o dream boy on 2018/3/28.
+//  Copyright © 2018年 冯垚杰. All rights reserved.
 //
 
 import Foundation
 
-class YJFileToolSwift: NSObject {
+class YJFileTool: NSObject {
     
     // MARK:- 获取项目名称
     /// 获取项目名称

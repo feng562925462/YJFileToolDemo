@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "YJFileTool"
   s.version      = "0.0.1"
-  s.summary      = "一个不太好使的文件操作工具."
+  s.summary      = "A file manipulation tool that is not very good."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,10 +25,11 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-麻烦的文件操作工具，需要改进和优化，改改改。。。
+			The troublesome file operation tool needs to be improved and optimized.
                    DESC
 
   s.homepage     = "https://github.com/feng562925462/YJFileToolDemo"
+
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -91,7 +92,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "YJFileToolDemo/YJFileToolSwift/*.swift"
+  s.source_files  = "YJFileTool/*.swift"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
