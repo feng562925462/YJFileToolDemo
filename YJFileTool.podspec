@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "YJFileTool"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A file manipulation tool that is not very good."
 
   # This description is used to generate tags and improve search results.
